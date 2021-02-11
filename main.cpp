@@ -3,7 +3,7 @@
 #include "SA.h"
 using namespace std;
 
-int main()
+int main() //lalallalalalalalalaal
 {
     syntacticAnalyzer sa;
     SA s;
