@@ -1,0 +1,12 @@
+a=1;
+b = (24+a)*4;
+
+while(a<11) {
+	b = a*a;
+	print(b);
+	print("\n");
+	a = a+1;
+	if(a==11) {
+		print("END\n");
+	}
+}

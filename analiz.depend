@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1543760508 source:d:\projects\analiz\main.cpp
+	<iostream>
+	"syntacticAnalyzer.h"
+	"SA.h"
+
+1543492182 d:\projects\analiz\include\syntacticanalyzer.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cctype>
+
+1543749995 source:d:\projects\analiz\src\syntacticanalyzer.cpp
+	"syntacticAnalyzer.h"
+
+1540052482 source:d:\projects\analiz\src\tree.cpp
+	"Tree.h"
+	<math.h>
+
+1540052570 d:\projects\analiz\include\tree.h
+	"syntacticAnalyzer.h"
+	<string>
+	<vector>
+	<iostream>
+
+1540125278 source:d:\projects\analiz\src\semanticanalyzer.cpp
+	"semanticAnalyzer.h"
+
+1540139560 d:\projects\analiz\include\semanticanalyzer.h
+	"syntacticAnalyzer.h"
+	<vector>
+	<string>
+
+1543761263 source:d:\projects\analiz\src\sa.cpp
+	"SA.h"
+
+1543761183 d:\projects\analiz\include\sa.h
+	"syntacticAnalyzer.h"
+	<vector>
+	<string>
+	<iostream>
+
+1544100651 source:d:\projects\azanaliz1\analiz\src\sa.cpp
+	"SA.h"
+	<fstream>
+
+1544100001 d:\projects\azanaliz1\analiz\include\sa.h
+	"syntacticAnalyzer.h"
+	<vector>
+	<string>
+	<iostream>
+
+1544080019 d:\projects\azanaliz1\analiz\include\syntacticanalyzer.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cctype>
+
+1544020651 source:d:\projects\azanaliz1\analiz\src\semanticanalyzer.cpp
+	"semanticAnalyzer.h"
+
+1540139560 d:\projects\azanaliz1\analiz\include\semanticanalyzer.h
+	"syntacticAnalyzer.h"
+	<vector>
+	<string>
+
+1544081421 source:d:\projects\azanaliz1\analiz\src\syntacticanalyzer.cpp
+	"syntacticAnalyzer.h"
+
+1544020710 source:d:\projects\azanaliz1\analiz\src\tree.cpp
+	"Tree.h"
+	<math.h>
+
+1540052570 d:\projects\azanaliz1\analiz\include\tree.h
+	"syntacticAnalyzer.h"
+	<string>
+	<vector>
+	<iostream>
+
+1544087290 source:d:\projects\azanaliz1\analiz\main.cpp
+	<iostream>
+	"syntacticAnalyzer.h"
+	"SA.h"
+
